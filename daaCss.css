@@ -1,0 +1,78 @@
+
+h3
+{
+color:red;
+text-align:center;
+  	font-family: Gill Sans, Verdana;
+	font-size: 11px;
+	line-height: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+
+}
+h2
+{
+color:red;
+text-align:center;
+
+
+}
+body {
+background-image:url('background.jpg');
+background-position:right;
+background-repeat:no-repeat;
+}
+
+button
+{
+padding: 8px 18px 9px !important;
+font-size: 18px !important;
+background-color: #57d6c7;
+font-weight: bold;
+text-shadow: 1px 1px #57d6c7;
+color: #ffffff;
+border-radius: 100px;
+-moz-border-radius: 100px;
+-webkit-border-radius: 100px;
+border: 1px solid #57d6c7;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+
+
+input[type="text"] {
+ 
+  margin: 0;
+ 
+  font-family: sans-serif;
+  font-size: 14px;
+  appearance: none;
+  box-shadow: none;
+  border-radius: none;
+    padding: 8px;
+  border: solid 5px #c9c9c9;
+  transition: border 0.3s;
+  
+  	font-family: Gill Sans, Verdana;
+	font-size: 11px;
+	line-height: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+input[type="text"]:focus {
+  outline: none;
+  border: solid 2.5px #969696;
+}
+p{
+	font-family: Gill Sans, Verdana;
+	font-size: 11px;
+	line-height: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+
+}
